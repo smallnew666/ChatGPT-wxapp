@@ -1,7 +1,9 @@
 # ChatGPT-wxapp
 ChatGPT微信小程序源码
 
-后端接口index.py建议使用云函数，免备案
+后端接口使用flask框架部署，拷贝index.py到flask运行目录
+
+建议使用阿里云或者腾讯云云函数，免备案
 演示地址：
 ![gh_01d6acdd49ae_344](https://user-images.githubusercontent.com/24582880/218671208-ebd81d32-20e3-4ba9-b3bc-698edcd0a8bc.jpg)
 
