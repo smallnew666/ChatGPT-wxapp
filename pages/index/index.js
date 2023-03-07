@@ -182,7 +182,7 @@
                             success: function(t) {
                                 if (200 == t.data.code) {
                                     console.log(e);
-                                    var e = t.data.resmsg.choices[0].text;
+                                    var e = t.data.resmsg.choices[0].message.content;
                                     s.msgList.push({
                                         msg: e,
                                         my: !1
