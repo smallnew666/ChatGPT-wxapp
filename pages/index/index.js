@@ -99,6 +99,11 @@
                 onLoad: function() {
                     var s = this;
                     try {
+                        wx.showShareMenu({
+                            withShareTicket:true,
+                            //设置下方的Menus菜单，才能够让发送给朋友与分享到朋友圈两个按钮可以点击
+                            menus:["shareAppMessage","shareTimeline"]
+                        }),
                         this.apibut = "连接成功",
                         this.apisucc = !0,
                         this.sentext = "发送",
