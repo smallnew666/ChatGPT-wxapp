@@ -8,13 +8,13 @@ import os
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():  # put application's code here
-    return '在此输入apikey 样式:sk-s5S5BoV...'
+def hello_world():
+    return 'hello'
 
 @app.route('/message',methods = ['POST'])
 def mess():  # put application's code here
     message = request.json.get('msg')
-    openai.api_key = "key"
+    openai.api_key = "key" #修改这里为自己申请的api_key
     messages = [
         {"role": "system", "content": "You are a coding tutor bot to help user write and optimize python code."},
     ]
