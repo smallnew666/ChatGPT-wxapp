@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'hello'
+    return '在此输入apikey 样式:sk-s5S5BoV...'
 
 @app.route('/message',methods = ['POST'])
 def mess():  # put application's code here
