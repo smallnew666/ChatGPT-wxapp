@@ -167,7 +167,7 @@
                             msg: this.msg,
                             my: !0
                         }),
-                        this.msgContent += "YOU:" + this.msg + "\n",
+                        this.msgContent += this.msg,
                         console.log(this.msgContent),
                         this.msgLoad = !0,
                         this.msg = "";
