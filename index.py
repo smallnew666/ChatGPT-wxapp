@@ -32,4 +32,4 @@ def mess():  # put application's code here
             }
     return res
 if __name__ == '__main__':
-    app.run(threaded = False,processes=5)
+    app.run(threaded = False,processes=5,host="0.0.0.0",port="5000")
