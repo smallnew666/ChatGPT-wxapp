@@ -19,7 +19,7 @@
 
 演示地址：
 
-![gh_01d6acdd49ae_344](https://user-images.githubusercontent.com/24582880/218671208-ebd81d32-20e3-4ba9-b3bc-698edcd0a8bc.jpg)
+![gh_01d6acdd49ae_344](https://user-images.githubusercontent.com/24582880/227719924-367ad647-e190-40ec-84d8-031064b44d1c.jpg)
 
 交流群：(微信群满了，加微信号mr_zabsa拉群，备注加群)
 
