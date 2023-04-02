@@ -1,3 +1,5 @@
+# 由于ChatGPT内容属于小程序平台未开放的服务范围，已无法再用过本代码部署到小程序平台
+
 ## ChatGPT微信小程序源码
 包含前后端代码，基于[OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat)的 demo
 
