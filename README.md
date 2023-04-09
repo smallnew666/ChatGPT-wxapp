@@ -1,4 +1,4 @@
-## <font color='red'>由于ChatGPT内容属于小程序平台未开放的服务范围，已无法再用过本代码部署小程序</font>
+## <font color='red'>由于ChatGPT内容属于小程序平台未开放的服务范围，小程序适合自用以规避风险</font>
 
 ## ChatGPT微信小程序源码
 包含前后端代码，基于[OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat)的 demo
