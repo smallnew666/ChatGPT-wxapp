@@ -27,7 +27,7 @@
 
 ![微信图片_20230313125145](https://user-images.githubusercontent.com/24582880/224611286-854da90a-754a-4fb2-862a-400ccc240245.jpg)
 
-详细部署教程可以加入付费知识星球，更多chatgpt玩法，定期更新
+详细部署教程可以加入付费知识星球,每日有免费openai api-key分享，更多chatgpt玩法，定期更新
 
 ![image](https://user-images.githubusercontent.com/24582880/232372709-c72fc852-b439-4099-b249-81960aa0d87f.png)
 
