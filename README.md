@@ -25,7 +25,6 @@
 
 交流群：(微信群满了，加微信号mr_zabsa拉群，备注加群)
 
-![微信图片_20230313125145](https://user-images.githubusercontent.com/24582880/224611286-854da90a-754a-4fb2-862a-400ccc240245.jpg)
 
 详细部署教程可以加入付费知识星球,每日有免费openai api-key分享，更多chatgpt玩法，定期更新
 
