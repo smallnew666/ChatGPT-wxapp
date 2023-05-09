@@ -27,8 +27,15 @@
 交流群：(微信群满了，加微信号mr_zabsa拉群，备注加群)
 
 
+
 详细部署教程可以加入付费知识星球,每日有免费openai api-key分享，更多chatgpt玩法，定期更新
 
 ![image](https://user-images.githubusercontent.com/24582880/232372709-c72fc852-b439-4099-b249-81960aa0d87f.png)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/smallnew666/ChatGPT-wxapp.svg)](https://starchart.cc/smallnew666/ChatGPT-wxapp)
+
 
 
